@@ -1,4 +1,4 @@
-# 🐦 Bird Audio Classification — Project Overview
+# Bird Audio Classification — Project Overview
 
 This project builds a deep learning system for **multi-label bird species classification** from raw environmental audio. The core idea is to transform raw waveforms into **mel spectrograms**, which provide a structured time–frequency representation, and then use a **convolutional neural network (ResNet-18)** to learn discriminative acoustic features.
 
